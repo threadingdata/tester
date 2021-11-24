@@ -2,8 +2,8 @@ Package: tester
 Type: Package
 Title: Test Package
 Version: 0.0.9000
-Author: Derek Borba
-Maintainer: Derek Borba <derekborba@gmail.com>
+Author: Me N. Me
+Maintainer: Me N. Me <menme@menme.com>
 Description: This package is helping to create a workflow for creating packages
 License: Unknown
 Encoding: UTF-8

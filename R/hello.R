@@ -13,6 +13,15 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
+#' Title
+#'
+#' @param name
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#' hello('Derek')
 hello <- function(name) {
   print(paste0("Hello, ", name,"!"))
 }

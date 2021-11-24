@@ -19,6 +19,10 @@ library(tester)
 ```
 
 ```{r}
-hello('Derek')
+hello('You sight for sore eyes')
+```
+
+```{r}
+goodbye('You filthy animal')
 ```
 

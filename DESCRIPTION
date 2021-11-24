@@ -1,11 +1,10 @@
 Package: tester
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: Test Package
+Version: 0.0.9000
+Author: Derek Borba
+Maintainer: Derek Borba <derekborba@gmail.com>
+Description: This package is helping to create a workflow for creating packages
+License: Unknown
 Encoding: UTF-8
 LazyData: true

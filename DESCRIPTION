@@ -1,10 +1,13 @@
 Package: tester
-Type: Package
-Title: Test Package
-Version: 0.0.9000
-Author: Me N. Me
-Maintainer: Me N. Me <menme@menme.com>
-Description: This package is helping to create a workflow for creating packages
-License: Unknown
+Version: 0.0.0.9000
+Title: My Test Package
+Description: This package does some stuff.
+Authors@R: person("Derek", "Borba", 
+    email = "dborba@threadingdata.com", 
+    role = c("aut", "cre")
+License: Proprietary
 Encoding: UTF-8
 LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Maintainer: Derek Borba

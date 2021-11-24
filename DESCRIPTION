@@ -1,13 +1,14 @@
 Package: tester
-Version: 0.0.0.9000
 Title: My Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "email@domain.com")
 Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", 
-    email = "email@domain.com", 
-    role = c("aut", "cre")
 License: MIT + License file
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
-Maintainer: First Last

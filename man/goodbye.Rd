@@ -10,7 +10,7 @@ goodbye(name)
 \item{name}{Insert a name, or saying}
 }
 \value{
-
+vector with salutation
 }
 \description{
 Say goodbye how you like

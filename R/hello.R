@@ -1,7 +1,7 @@
 #' @title Hello World
 #' @description Say hello how you like
 #'
-#' @param name
+#' @param name Insert a name, or saying
 #'
 #' @return vector with salutation
 #' @export

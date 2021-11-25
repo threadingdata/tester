@@ -2,3 +2,5 @@
 
 export(goodbye)
 export(hello)
+export(hello_goodbye)
+importFrom(stringr,str_c)

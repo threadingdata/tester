@@ -53,3 +53,9 @@ hello('You sight for sore eyes')
 ```{r goodbye}
 goodbye('You filthy animal')
 ```
+
+# Say Hello & Goodbye!
+
+```{r hello_goodbye}
+hello_goodbye('Get off my lawn!')
+```

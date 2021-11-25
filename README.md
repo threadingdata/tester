@@ -7,6 +7,7 @@
 
 [![Codecov test
 coverage](https://codecov.io/gh/threadingdata/tester/branch/main/graph/badge.svg)](https://codecov.io/gh/threadingdata/tester?branch=main)
+[![R-CMD-check](https://github.com/threadingdata/tester/workflows/R-CMD-check/badge.svg)](https://github.com/threadingdata/tester/actions)
 <!-- badges: end -->
 
 The goal of tester is to establish a coherent workflow for building

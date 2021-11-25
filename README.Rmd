@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![Codecov test coverage](https://codecov.io/gh/threadingdata/tester/branch/main/graph/badge.svg)](https://codecov.io/gh/threadingdata/tester?branch=main)
+[![R-CMD-check](https://github.com/threadingdata/tester/workflows/R-CMD-check/badge.svg)](https://github.com/threadingdata/tester/actions)
 <!-- badges: end -->
 
 The goal of tester is to establish a coherent workflow for building R-packages.  The package itself is best used as a doormat to the home that the R-community built.

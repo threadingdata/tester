@@ -26,28 +26,28 @@ And the development version from [GitHub](https://github.com/) with:
 devtools::install_github("threadingdata/tester")
 ```
 
-## A basic example
+# Basic examples
 
 ``` r
 library(tester)
 ## basic example code
 ```
 
-# Say Hello!
+## Say Hello!
 
 ``` r
 hello('you spawn of Satan')
 #> [1] "Hello, you spawn of Satan!"
 ```
 
-# Say Goodbye!
+## Say Goodbye!
 
 ``` r
 goodbye('You filthy animal')
 #> [1] "Adios, You filthy animal!"
 ```
 
-# Say Hello & Goodbye!
+## Say Hello & Goodbye!
 
 ``` r
 hello_goodbye('Get off my lawn')

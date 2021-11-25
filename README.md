@@ -6,7 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of tester is to …
+The goal of tester is to establish a coherent workflow for building
+R-packages. The package itself is best used as a doormat to the home
+that the R-community built.
 
 ## Installation
 
@@ -34,8 +36,8 @@ library(tester)
 # Say Hello!
 
 ``` r
-hello('You sight for sore eyes')
-#> [1] "Hello, You sight for sore eyes!"
+hello('you spawn of Satan')
+#> [1] "Hello, you spawn of Satan!"
 ```
 
 # Say Goodbye!
@@ -48,8 +50,8 @@ goodbye('You filthy animal')
 # Say Hello & Goodbye!
 
 ``` r
-hello_goodbye('Get off my lawn!')
-#> [1] "Hello, Get off my lawn!!"
-#> [1] "Adios, Get off my lawn!!"
-#> [1] "Hello, Get off my lawn!! and Adios, Get off my lawn!!"
+hello_goodbye('Get off my lawn')
+#> [1] "Hello, Get off my lawn!"
+#> [1] "Adios, Get off my lawn!"
+#> [1] "Hello, Get off my lawn! and Adios, Get off my lawn!"
 ```

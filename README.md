@@ -4,6 +4,9 @@
 # tester
 
 <!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/threadingdata/tester/branch/main/graph/badge.svg)](https://codecov.io/gh/threadingdata/tester?branch=main)
 <!-- badges: end -->
 
 The goal of tester is to establish a coherent workflow for building
@@ -53,5 +56,5 @@ goodbye('you filthy animal')
 hello_goodbye('get off my lawn')
 #> [1] "Hello, get off my lawn!"
 #> [1] "Adios, get off my lawn!"
-#> [1] "Hello, get off my lawn! and Adios, get off my lawn!"
+#> [1] "Hello, get off my lawn! and adios, get off my lawn!"
 ```

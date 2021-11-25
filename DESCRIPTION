@@ -20,4 +20,5 @@ Imports:
     rmarkdown,
     stringr
 Suggests: 
+    covr,
     testthat

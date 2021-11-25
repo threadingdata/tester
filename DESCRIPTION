@@ -19,3 +19,5 @@ Imports:
     knitr,
     rmarkdown,
     stringr
+Suggests: 
+    testthat

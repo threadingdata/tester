@@ -7,13 +7,13 @@
 hello_goodbye(name)
 }
 \arguments{
-\item{name}{}
+\item{name}{Insert a name, or saying}
 }
 \value{
 
 }
 \description{
-Hello Goodbye
+Say hello how you like
 }
 \examples{
 hello_goodbye('Name')

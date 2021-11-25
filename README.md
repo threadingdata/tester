@@ -43,15 +43,15 @@ hello('you spawn of Satan')
 ## Say Goodbye!
 
 ``` r
-goodbye('You filthy animal')
-#> [1] "Adios, You filthy animal!"
+goodbye('you filthy animal')
+#> [1] "Adios, you filthy animal!"
 ```
 
 ## Say Hello & Goodbye!
 
 ``` r
-hello_goodbye('Get off my lawn')
-#> [1] "Hello, Get off my lawn!"
-#> [1] "Adios, Get off my lawn!"
-#> [1] "Hello, Get off my lawn! and Adios, Get off my lawn!"
+hello_goodbye('get off my lawn')
+#> [1] "Hello, get off my lawn!"
+#> [1] "Adios, get off my lawn!"
+#> [1] "Hello, get off my lawn! and Adios, get off my lawn!"
 ```

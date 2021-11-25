@@ -1,12 +1,12 @@
-#' @title Hello World!
-#' @description Say hello to the world
+#' @title Hello World
+#' @description Say hello how you like
+#'
 #' @param name
 #'
 #' @return
 #' @export
 #'
 #' @examples
-#' hello('Derek')
 hello <- function(name) {
   stopifnot(is.character(name))
   print(paste0("Hello, ", name,"!"))

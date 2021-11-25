@@ -1,6 +1,7 @@
-#' Goodbye function
+#' @title Goodbye function
+#' @description Say goodbye how you like
 #'
-#' @param name
+#' @param name Insert a name, or saying
 #'
 #' @return
 #' @export

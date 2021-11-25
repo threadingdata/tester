@@ -1,6 +1,7 @@
-#' Hello Goodbye
+#' @title Hello Goodbye
+#' @description Say hello how you like
 #'
-#' @param name
+#' @param name Insert a name, or saying
 #'
 #' @importFrom stringr str_c
 #'
@@ -11,5 +12,5 @@
 #' hello_goodbye('Name')
 hello_goodbye <- function(name){
   stopifnot(is.character(name))
-  stringr::str_c(hello(name), ' and ', goodbye(name))
+  stringr::str_c(hello(name), ' and ', tolower(goodbye(name)))
 }

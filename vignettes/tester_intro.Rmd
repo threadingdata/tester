@@ -3,7 +3,7 @@ title: "Introduction to tester"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Introduction to tester}
-  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEngine{knitr::knitr}
   %\VignetteEncoding{UTF-8}
 ---
 
@@ -13,16 +13,27 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 ```
+# Basic examples
 
-```{r setup}
+```{r example}
 library(tester)
+## basic example code
 ```
 
-```{r}
-hello('You sight for sore eyes')
+## Say Hello!
+
+```{r hello}
+hello('you spawn of Satan')
 ```
 
-```{r}
-goodbye('You filthy animal')
+## Say Goodbye!
+
+```{r goodbye}
+goodbye('you filthy animal')
 ```
 
+## Say Hello & Goodbye!
+
+```{r hello_goodbye}
+hello_goodbye('get off my lawn')
+```

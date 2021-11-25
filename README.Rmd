@@ -51,11 +51,11 @@ hello('you spawn of Satan')
 ## Say Goodbye!
 
 ```{r goodbye}
-goodbye('You filthy animal')
+goodbye('you filthy animal')
 ```
 
 ## Say Hello & Goodbye!
 
 ```{r hello_goodbye}
-hello_goodbye('Get off my lawn')
+hello_goodbye('get off my lawn')
 ```

@@ -8,5 +8,6 @@
 #' @examples
 #' goodbye('Derek')
 goodbye <- function(name) {
+  stopifnot(is.character(name))
   print(paste0("Adios, ", name,"!"))
 }

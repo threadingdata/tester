@@ -23,5 +23,6 @@
 #' @examples
 #' hello('Derek')
 hello <- function(name) {
+  stopifnot(is.character(name))
   print(paste0("Hello, ", name,"!"))
 }

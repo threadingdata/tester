@@ -8,9 +8,10 @@ Authors@R:
            email = "email@domain.com")
 Description: What the package does (one paragraph).
 License: MIT + License file
+VignetteBuilder: 
+    knitr,
+    rmarkdown
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
-Imports: 
-    stringr

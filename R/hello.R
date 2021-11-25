@@ -3,7 +3,7 @@
 #'
 #' @param name
 #'
-#' @return
+#' @return vector with salutation
 #' @export
 #'
 #' @examples

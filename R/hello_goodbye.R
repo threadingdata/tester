@@ -5,7 +5,7 @@
 #'
 #' @importFrom stringr str_c
 #'
-#' @return
+#' @return vector with salutation
 #' @export
 #'
 #' @examples

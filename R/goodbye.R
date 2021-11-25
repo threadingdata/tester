@@ -3,7 +3,7 @@
 #'
 #' @param name Insert a name, or saying
 #'
-#' @return
+#' @return vector with salutation
 #' @export
 #'
 #' @examples

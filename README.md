@@ -7,8 +7,8 @@
 <!-- badges: end -->
 
 The goal of tester is to establish a coherent workflow for building
-R-packages. The package itself is best used as a doormat to the home
-that the R-community built.
+R-packages. The `tester` package itself is best used as a doormat to the
+home that the R-community built.
 
 ## Installation
 
